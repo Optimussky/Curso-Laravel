@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/hola-prueba', function () {
-        return 'Hola de nuevo';    
+        return 'Hola de nuevo, desde laravel otravez';    
 });
